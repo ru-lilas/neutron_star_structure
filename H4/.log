@@ -1,0 +1,2083 @@
+2024-10-25 15:29:02 [INFO] [line 89] Start to calculate.
+2024-10-25 15:29:03 [WARN] [line 285] NaN detected. (iteration value 1968)
+2024-10-25 15:29:03 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:03 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:03 [WARN] [line 292] NaN detected. (iteration value 1968)
+2024-10-25 15:29:03 [WARN] [line 292] NaN detected. (iteration value 1968)
+2024-10-25 15:29:03 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:03 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:03 [WARN] [line 285] NaN detected. (iteration value 1648)
+2024-10-25 15:29:03 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:03 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:03 [WARN] [line 292] NaN detected. (iteration value 1648)
+2024-10-25 15:29:03 [WARN] [line 292] NaN detected. (iteration value 1648)
+2024-10-25 15:29:03 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:03 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:04 [WARN] [line 285] NaN detected. (iteration value 1477)
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:04 [WARN] [line 292] NaN detected. (iteration value 1477)
+2024-10-25 15:29:04 [WARN] [line 292] NaN detected. (iteration value 1477)
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:04 [WARN] [line 285] NaN detected. (iteration value 1336)
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:04 [WARN] [line 292] NaN detected. (iteration value 1336)
+2024-10-25 15:29:04 [WARN] [line 292] NaN detected. (iteration value 1336)
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:04 [WARN] [line 285] NaN detected. (iteration value 1330)
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:04 [WARN] [line 292] NaN detected. (iteration value 1330)
+2024-10-25 15:29:04 [WARN] [line 292] NaN detected. (iteration value 1330)
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:04 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:05 [WARN] [line 285] NaN detected. (iteration value 1312)
+2024-10-25 15:29:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:05 [WARN] [line 292] NaN detected. (iteration value 1312)
+2024-10-25 15:29:05 [WARN] [line 292] NaN detected. (iteration value 1312)
+2024-10-25 15:29:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:05 [WARN] [line 285] NaN detected. (iteration value 1329)
+2024-10-25 15:29:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:05 [WARN] [line 292] NaN detected. (iteration value 1329)
+2024-10-25 15:29:05 [WARN] [line 292] NaN detected. (iteration value 1329)
+2024-10-25 15:29:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:06 [WARN] [line 285] NaN detected. (iteration value 1343)
+2024-10-25 15:29:06 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:06 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:06 [WARN] [line 292] NaN detected. (iteration value 1343)
+2024-10-25 15:29:06 [WARN] [line 292] NaN detected. (iteration value 1343)
+2024-10-25 15:29:06 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:06 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:07 [WARN] [line 285] NaN detected. (iteration value 1370)
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:07 [WARN] [line 292] NaN detected. (iteration value 1370)
+2024-10-25 15:29:07 [WARN] [line 292] NaN detected. (iteration value 1370)
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:07 [WARN] [line 285] NaN detected. (iteration value 1373)
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:07 [WARN] [line 292] NaN detected. (iteration value 1373)
+2024-10-25 15:29:07 [WARN] [line 292] NaN detected. (iteration value 1373)
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:07 [WARN] [line 285] NaN detected. (iteration value 1380)
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:07 [WARN] [line 292] NaN detected. (iteration value 1380)
+2024-10-25 15:29:07 [WARN] [line 292] NaN detected. (iteration value 1380)
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:07 [WARN] [line 285] NaN detected. (iteration value 1391)
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:07 [WARN] [line 292] NaN detected. (iteration value 1391)
+2024-10-25 15:29:07 [WARN] [line 292] NaN detected. (iteration value 1391)
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:07 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:08 [WARN] [line 285] NaN detected. (iteration value 1394)
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:08 [WARN] [line 292] NaN detected. (iteration value 1394)
+2024-10-25 15:29:08 [WARN] [line 292] NaN detected. (iteration value 1394)
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:08 [WARN] [line 285] NaN detected. (iteration value 1395)
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:08 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:29:08 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:08 [WARN] [line 285] NaN detected. (iteration value 1395)
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:08 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:29:08 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:08 [WARN] [line 285] NaN detected. (iteration value 1395)
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:08 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:29:08 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:08 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:09 [WARN] [line 285] NaN detected. (iteration value 1395)
+2024-10-25 15:29:09 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:09 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:09 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:29:09 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:29:09 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:09 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:09 [WARN] [line 285] NaN detected. (iteration value 1394)
+2024-10-25 15:29:09 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:09 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:09 [WARN] [line 292] NaN detected. (iteration value 1394)
+2024-10-25 15:29:09 [WARN] [line 292] NaN detected. (iteration value 1394)
+2024-10-25 15:29:09 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:09 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:10 [WARN] [line 285] NaN detected. (iteration value 1385)
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:10 [WARN] [line 292] NaN detected. (iteration value 1385)
+2024-10-25 15:29:10 [WARN] [line 292] NaN detected. (iteration value 1385)
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:10 [WARN] [line 285] NaN detected. (iteration value 1383)
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:10 [WARN] [line 292] NaN detected. (iteration value 1383)
+2024-10-25 15:29:10 [WARN] [line 292] NaN detected. (iteration value 1383)
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:10 [WARN] [line 285] NaN detected. (iteration value 1377)
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:10 [WARN] [line 292] NaN detected. (iteration value 1377)
+2024-10-25 15:29:10 [WARN] [line 292] NaN detected. (iteration value 1377)
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:10 [WARN] [line 285] NaN detected. (iteration value 1376)
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:10 [WARN] [line 292] NaN detected. (iteration value 1376)
+2024-10-25 15:29:10 [WARN] [line 292] NaN detected. (iteration value 1376)
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:10 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:11 [WARN] [line 285] NaN detected. (iteration value 1364)
+2024-10-25 15:29:11 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:11 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:11 [WARN] [line 292] NaN detected. (iteration value 1364)
+2024-10-25 15:29:11 [WARN] [line 292] NaN detected. (iteration value 1364)
+2024-10-25 15:29:11 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:11 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 1355)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 1355)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 1355)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 1346)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 1346)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 1346)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 285] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 292] NaN detected. (iteration value 0)
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:29:12 [INFO] [line 146] Finished to calculate.
+2024-10-25 15:35:47 [INFO] [line 89] Start to calculate.
+2024-10-25 15:35:48 [WARN] [line 285] NaN detected. (iteration value 1968)
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:48 [WARN] [line 292] NaN detected. (iteration value 1968)
+2024-10-25 15:35:48 [WARN] [line 292] NaN detected. (iteration value 1968)
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:48 [WARN] [line 285] NaN detected. (iteration value 1648)
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:48 [WARN] [line 292] NaN detected. (iteration value 1648)
+2024-10-25 15:35:48 [WARN] [line 292] NaN detected. (iteration value 1648)
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:48 [WARN] [line 285] NaN detected. (iteration value 1477)
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:48 [WARN] [line 292] NaN detected. (iteration value 1477)
+2024-10-25 15:35:48 [WARN] [line 292] NaN detected. (iteration value 1477)
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:48 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:49 [WARN] [line 285] NaN detected. (iteration value 1336)
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:49 [WARN] [line 292] NaN detected. (iteration value 1336)
+2024-10-25 15:35:49 [WARN] [line 292] NaN detected. (iteration value 1336)
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:49 [WARN] [line 285] NaN detected. (iteration value 1330)
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:49 [WARN] [line 292] NaN detected. (iteration value 1330)
+2024-10-25 15:35:49 [WARN] [line 292] NaN detected. (iteration value 1330)
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:49 [WARN] [line 285] NaN detected. (iteration value 1312)
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:49 [WARN] [line 292] NaN detected. (iteration value 1312)
+2024-10-25 15:35:49 [WARN] [line 292] NaN detected. (iteration value 1312)
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:49 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:50 [WARN] [line 285] NaN detected. (iteration value 1329)
+2024-10-25 15:35:50 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:50 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:50 [WARN] [line 292] NaN detected. (iteration value 1329)
+2024-10-25 15:35:50 [WARN] [line 292] NaN detected. (iteration value 1329)
+2024-10-25 15:35:50 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:50 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:51 [WARN] [line 285] NaN detected. (iteration value 1343)
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:51 [WARN] [line 292] NaN detected. (iteration value 1343)
+2024-10-25 15:35:51 [WARN] [line 292] NaN detected. (iteration value 1343)
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 285] NaN detected. (iteration value 1370)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1370)
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1370)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 285] NaN detected. (iteration value 1373)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1373)
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1373)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 285] NaN detected. (iteration value 1380)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1380)
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1380)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:51 [WARN] [line 285] NaN detected. (iteration value 1391)
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:51 [WARN] [line 292] NaN detected. (iteration value 1391)
+2024-10-25 15:35:51 [WARN] [line 292] NaN detected. (iteration value 1391)
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:51 [WARN] [line 285] NaN detected. (iteration value 1394)
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:51 [WARN] [line 292] NaN detected. (iteration value 1394)
+2024-10-25 15:35:51 [WARN] [line 292] NaN detected. (iteration value 1394)
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:51 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 285] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 285] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 285] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 285] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1395)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 285] NaN detected. (iteration value 1394)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1394)
+2024-10-25 15:35:52 [WARN] [line 292] NaN detected. (iteration value 1394)
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:52 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:53 [WARN] [line 285] NaN detected. (iteration value 1385)
+2024-10-25 15:35:53 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:53 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:53 [WARN] [line 292] NaN detected. (iteration value 1385)
+2024-10-25 15:35:53 [WARN] [line 292] NaN detected. (iteration value 1385)
+2024-10-25 15:35:53 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:53 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:54 [WARN] [line 285] NaN detected. (iteration value 1383)
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:54 [WARN] [line 292] NaN detected. (iteration value 1383)
+2024-10-25 15:35:54 [WARN] [line 292] NaN detected. (iteration value 1383)
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:54 [WARN] [line 285] NaN detected. (iteration value 1377)
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:54 [WARN] [line 292] NaN detected. (iteration value 1377)
+2024-10-25 15:35:54 [WARN] [line 292] NaN detected. (iteration value 1377)
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:54 [WARN] [line 285] NaN detected. (iteration value 1376)
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:54 [WARN] [line 292] NaN detected. (iteration value 1376)
+2024-10-25 15:35:54 [WARN] [line 292] NaN detected. (iteration value 1376)
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:54 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:55 [WARN] [line 285] NaN detected. (iteration value 1364)
+2024-10-25 15:35:55 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:55 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:55 [WARN] [line 292] NaN detected. (iteration value 1364)
+2024-10-25 15:35:55 [WARN] [line 292] NaN detected. (iteration value 1364)
+2024-10-25 15:35:55 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:55 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:55 [WARN] [line 285] NaN detected. (iteration value 1355)
+2024-10-25 15:35:55 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:55 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:55 [WARN] [line 292] NaN detected. (iteration value 1355)
+2024-10-25 15:35:55 [WARN] [line 292] NaN detected. (iteration value 1355)
+2024-10-25 15:35:55 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:55 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:56 [WARN] [line 285] NaN detected. (iteration value 1346)
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:56 [WARN] [line 292] NaN detected. (iteration value 1346)
+2024-10-25 15:35:56 [WARN] [line 292] NaN detected. (iteration value 1346)
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:56 [WARN] [line 285] NaN detected. (iteration value 1344)
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:56 [WARN] [line 292] NaN detected. (iteration value 1344)
+2024-10-25 15:35:56 [WARN] [line 292] NaN detected. (iteration value 1344)
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:56 [WARN] [line 285] NaN detected. (iteration value 1337)
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:56 [WARN] [line 292] NaN detected. (iteration value 1337)
+2024-10-25 15:35:56 [WARN] [line 292] NaN detected. (iteration value 1337)
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:56 [WARN] [line 285] NaN detected. (iteration value 1335)
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:56 [WARN] [line 292] NaN detected. (iteration value 1335)
+2024-10-25 15:35:56 [WARN] [line 292] NaN detected. (iteration value 1335)
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:56 [WARN] [line 285] NaN detected. (iteration value 1326)
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:56 [WARN] [line 292] NaN detected. (iteration value 1326)
+2024-10-25 15:35:56 [WARN] [line 292] NaN detected. (iteration value 1326)
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:56 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:57 [WARN] [line 285] NaN detected. (iteration value 1315)
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:57 [WARN] [line 292] NaN detected. (iteration value 1315)
+2024-10-25 15:35:57 [WARN] [line 292] NaN detected. (iteration value 1315)
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:57 [WARN] [line 285] NaN detected. (iteration value 1306)
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:57 [WARN] [line 292] NaN detected. (iteration value 1306)
+2024-10-25 15:35:57 [WARN] [line 292] NaN detected. (iteration value 1306)
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:57 [WARN] [line 285] NaN detected. (iteration value 1304)
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:57 [WARN] [line 292] NaN detected. (iteration value 1304)
+2024-10-25 15:35:57 [WARN] [line 292] NaN detected. (iteration value 1304)
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:57 [WARN] [line 285] NaN detected. (iteration value 1286)
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:57 [WARN] [line 292] NaN detected. (iteration value 1286)
+2024-10-25 15:35:57 [WARN] [line 292] NaN detected. (iteration value 1286)
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:57 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:58 [WARN] [line 285] NaN detected. (iteration value 1277)
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:58 [WARN] [line 292] NaN detected. (iteration value 1277)
+2024-10-25 15:35:58 [WARN] [line 292] NaN detected. (iteration value 1277)
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:58 [WARN] [line 285] NaN detected. (iteration value 1270)
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:58 [WARN] [line 292] NaN detected. (iteration value 1270)
+2024-10-25 15:35:58 [WARN] [line 292] NaN detected. (iteration value 1270)
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:58 [WARN] [line 285] NaN detected. (iteration value 1256)
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:58 [WARN] [line 292] NaN detected. (iteration value 1256)
+2024-10-25 15:35:58 [WARN] [line 292] NaN detected. (iteration value 1256)
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:58 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:59 [WARN] [line 285] NaN detected. (iteration value 1246)
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:59 [WARN] [line 292] NaN detected. (iteration value 1246)
+2024-10-25 15:35:59 [WARN] [line 292] NaN detected. (iteration value 1246)
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:59 [WARN] [line 285] NaN detected. (iteration value 1230)
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:59 [WARN] [line 292] NaN detected. (iteration value 1230)
+2024-10-25 15:35:59 [WARN] [line 292] NaN detected. (iteration value 1230)
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:59 [WARN] [line 285] NaN detected. (iteration value 1225)
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:35:59 [WARN] [line 292] NaN detected. (iteration value 1225)
+2024-10-25 15:35:59 [WARN] [line 292] NaN detected. (iteration value 1225)
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:35:59 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:00 [WARN] [line 285] NaN detected. (iteration value 1211)
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:00 [WARN] [line 292] NaN detected. (iteration value 1211)
+2024-10-25 15:36:00 [WARN] [line 292] NaN detected. (iteration value 1211)
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:00 [WARN] [line 285] NaN detected. (iteration value 1198)
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:00 [WARN] [line 292] NaN detected. (iteration value 1198)
+2024-10-25 15:36:00 [WARN] [line 292] NaN detected. (iteration value 1198)
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:00 [WARN] [line 285] NaN detected. (iteration value 1191)
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:00 [WARN] [line 292] NaN detected. (iteration value 1191)
+2024-10-25 15:36:00 [WARN] [line 292] NaN detected. (iteration value 1191)
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:00 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:01 [WARN] [line 285] NaN detected. (iteration value 1185)
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:01 [WARN] [line 292] NaN detected. (iteration value 1185)
+2024-10-25 15:36:01 [WARN] [line 292] NaN detected. (iteration value 1185)
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:01 [WARN] [line 285] NaN detected. (iteration value 1177)
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:01 [WARN] [line 292] NaN detected. (iteration value 1177)
+2024-10-25 15:36:01 [WARN] [line 292] NaN detected. (iteration value 1177)
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:01 [WARN] [line 285] NaN detected. (iteration value 1173)
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:01 [WARN] [line 292] NaN detected. (iteration value 1173)
+2024-10-25 15:36:01 [WARN] [line 292] NaN detected. (iteration value 1173)
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:01 [WARN] [line 285] NaN detected. (iteration value 1169)
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:01 [WARN] [line 292] NaN detected. (iteration value 1169)
+2024-10-25 15:36:01 [WARN] [line 292] NaN detected. (iteration value 1169)
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:01 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 285] NaN detected. (iteration value 1160)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1160)
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1160)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 285] NaN detected. (iteration value 1159)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1159)
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1159)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 285] NaN detected. (iteration value 1154)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1154)
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1154)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 285] NaN detected. (iteration value 1143)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1143)
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1143)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 285] NaN detected. (iteration value 1142)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1142)
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1142)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 285] NaN detected. (iteration value 1136)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1136)
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1136)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 285] NaN detected. (iteration value 1135)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1135)
+2024-10-25 15:36:02 [WARN] [line 292] NaN detected. (iteration value 1135)
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:02 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:03 [WARN] [line 285] NaN detected. (iteration value 1125)
+2024-10-25 15:36:03 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:03 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:03 [WARN] [line 292] NaN detected. (iteration value 1125)
+2024-10-25 15:36:03 [WARN] [line 292] NaN detected. (iteration value 1125)
+2024-10-25 15:36:03 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:03 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:03 [WARN] [line 285] NaN detected. (iteration value 1124)
+2024-10-25 15:36:03 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:03 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:03 [WARN] [line 292] NaN detected. (iteration value 1124)
+2024-10-25 15:36:03 [WARN] [line 292] NaN detected. (iteration value 1124)
+2024-10-25 15:36:03 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:03 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 285] NaN detected. (iteration value 1092)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1092)
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1092)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 285] NaN detected. (iteration value 1091)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1091)
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1091)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 285] NaN detected. (iteration value 1090)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1090)
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1090)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 285] NaN detected. (iteration value 1083)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1083)
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1083)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 285] NaN detected. (iteration value 1082)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1082)
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1082)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 285] NaN detected. (iteration value 1076)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1076)
+2024-10-25 15:36:05 [WARN] [line 292] NaN detected. (iteration value 1076)
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:05 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:06 [WARN] [line 285] NaN detected. (iteration value 1005)
+2024-10-25 15:36:06 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:06 [WARN] [line 185] Can't determine the piecewise region for given rho = -nan. 
+2024-10-25 15:36:06 [WARN] [line 292] NaN detected. (iteration value 1005)
+2024-10-25 15:36:06 [WARN] [line 292] NaN detected. (iteration value 1005)
+2024-10-25 15:36:06 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:06 [WARN] [line 185] Can't determine the piecewise region for given rho = nan. 
+2024-10-25 15:36:06 [INFO] [line 146] Finished to calculate.

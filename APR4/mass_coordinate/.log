@@ -1,0 +1,149 @@
+2024-10-10 18:09:21 [INFO] [line 92] Start calculation.
+2024-10-10 18:09:25 [ERROR] [line 166] can't determine region from given rho = -nan 
+2024-10-10 18:21:24 [INFO] [line 92] Start calculation.
+2024-10-10 18:23:15 [INFO] [line 92] Start calculation.
+2024-10-10 18:28:10 [INFO] [line 92] Start calculation.
+2024-10-10 18:28:35 [INFO] [line 92] Start calculation.
+2024-10-10 18:30:58 [INFO] [line 92] Start calculation.
+2024-10-10 18:31:23 [INFO] [line 92] Start calculation.
+2024-10-10 18:31:40 [INFO] [line 92] Start calculation.
+2024-10-10 18:32:01 [INFO] [line 92] Start calculation.
+2024-10-10 18:39:45 [INFO] [line 92] Start calculation.
+2024-10-10 18:41:31 [INFO] [line 92] Start calculation.
+2024-10-10 18:42:08 [INFO] [line 92] Start calculation.
+2024-10-10 19:00:04 [INFO] [line 92] Start calculation.
+2024-10-10 19:57:08 [INFO] [line 91] Start calculation.
+2024-10-10 19:57:17 [WARN] [line 308] We reached max step N=100002024-10-10 20:05:40 [INFO] [line 91] Start calculation.
+2024-10-10 20:05:48 [WARN] [line 306] We reached max step N=100002024-10-10 20:07:00 [INFO] [line 91] Start calculation.
+2024-10-10 20:07:00 [WARN] [line 250] NaN detected. (iteration value 0)
+2024-10-10 20:07:17 [INFO] [line 91] Start calculation.
+2024-10-10 20:07:17 [WARN] [line 250] NaN detected. (iteration value 0)
+2024-10-10 20:08:54 [INFO] [line 91] Start calculation.
+2024-10-10 20:09:03 [WARN] [line 306] We reached max step N=100002024-10-10 20:11:11 [INFO] [line 91] Start calculation.
+2024-10-10 20:11:49 [INFO] [line 91] Start calculation.
+2024-10-10 20:12:13 [INFO] [line 91] Start calculation.
+2024-10-10 20:12:16 [WARN] [line 307] We reached max step N=100002024-10-10 20:13:08 [INFO] [line 91] Start calculation.
+2024-10-10 20:13:13 [WARN] [line 307] We reached max step N=100002024-10-10 20:13:36 [INFO] [line 91] Start calculation.
+2024-10-10 20:13:39 [WARN] [line 307] We reached max step N=100002024-10-10 20:51:44 [INFO] [line 91] Start calculation.
+2024-10-10 20:51:50 [WARN] [line 307] We reached max step N=100002024-10-10 20:52:37 [INFO] [line 91] Start calculation.
+2024-10-10 22:09:03 [INFO] [line 94] Start to calculate.
+2024-10-10 22:09:06 [WARN] [line 295] We reached max step N=100002024-10-10 22:09:06 [INFO] [line 120] Finished to calculate.2024-10-10 22:09:56 [INFO] [line 94] Start to calculate.
+2024-10-10 22:09:57 [ERROR] [line 159] can't determine region for given rho = -nan. 
+2024-10-10 22:13:07 [INFO] [line 94] Start to calculate.
+2024-10-10 22:13:07 [ERROR] [line 160] can't determine region for given rho = -nan. 
+2024-10-10 22:13:45 [INFO] [line 94] Start to calculate.
+2024-10-10 22:13:45 [WARN] [line 256] NaN detected. (iteration value 0)
+2024-10-10 22:14:01 [INFO] [line 94] Start to calculate.
+2024-10-10 22:14:01 [WARN] [line 256] NaN detected. (iteration value 0)
+2024-10-10 22:14:37 [INFO] [line 94] Start to calculate.
+2024-10-10 22:14:37 [WARN] [line 256] NaN detected. (iteration value 0)
+2024-10-10 22:15:01 [INFO] [line 94] Start to calculate.
+2024-10-10 22:15:01 [WARN] [line 256] NaN detected. (iteration value 0)2024-10-10 22:16:04 [INFO] [line 94] Start to calculate.
+2024-10-10 22:16:04 [WARN] [line 296] We reached max step N=10000
+2024-10-10 22:16:04 [INFO] [line 121] Finished to calculate.2024-10-10 22:16:35 [INFO] [line 94] Start to calculate.
+2024-10-10 22:16:36 [WARN] [line 296] We reached max step N=10000
+2024-10-10 22:16:36 [INFO] [line 121] Finished to calculate.
+2024-10-10 22:17:28 [INFO] [line 94] Start to calculate.
+2024-10-10 22:17:28 [WARN] [line 296] We reached max step N=10000
+2024-10-10 22:17:28 [INFO] [line 121] Finished to calculate.
+2024-10-10 22:24:37 [INFO] [line 93] Start to calculate.
+2024-10-10 22:24:38 [WARN] [line 295] We reached max step N=10000
+2024-10-10 22:24:38 [INFO] [line 120] Finished to calculate.
+2024-10-10 22:25:59 [INFO] [line 93] Start to calculate.
+2024-10-10 22:26:58 [INFO] [line 93] Start to calculate.
+2024-10-10 22:29:59 [INFO] [line 93] Start to calculate.
+2024-10-10 22:30:17 [INFO] [line 93] Start to calculate.
+2024-10-10 22:30:17 [WARN] [line 295] We reached max step N=10000
+2024-10-10 22:30:17 [INFO] [line 120] Finished to calculate.
+2024-10-11 09:51:18 [INFO] [line 93] Start to calculate.
+2024-10-11 09:51:18 [WARN] [line 295] We reached max step N=10000
+2024-10-11 09:51:18 [INFO] [line 120] Finished to calculate.
+2024-10-11 09:51:43 [INFO] [line 93] Start to calculate.
+2024-10-11 09:51:44 [WARN] [line 295] We reached max step N=10000
+2024-10-11 09:51:44 [INFO] [line 120] Finished to calculate.
+2024-10-11 09:55:01 [INFO] [line 93] Start to calculate.
+2024-10-11 09:55:01 [WARN] [line 295] We reached max step N=10000
+2024-10-11 09:55:01 [INFO] [line 120] Finished to calculate.
+2024-10-11 09:55:09 [INFO] [line 93] Start to calculate.
+2024-10-11 12:13:44 [INFO] [line 93] Start to calculate.
+2024-10-11 12:29:54 [INFO] [line 93] Start to calculate.
+2024-10-11 12:37:47 [INFO] [line 93] Start to calculate.
+2024-10-11 12:39:43 [INFO] [line 93] Start to calculate.
+2024-10-11 17:08:43 [INFO] [line 93] Start to calculate.
+2024-10-11 17:47:42 [INFO] [line 93] Start to calculate.
+2024-10-14 10:57:27 [INFO] [line 90] Start to calculate.
+2024-10-14 11:00:55 [INFO] [line 90] Start to calculate.
+2024-10-14 11:01:36 [INFO] [line 90] Start to calculate.
+2024-10-14 11:16:33 [INFO] [line 90] Start to calculate.
+2024-10-14 11:16:58 [INFO] [line 90] Start to calculate.
+2024-10-14 11:19:11 [INFO] [line 90] Start to calculate.
+2024-10-14 11:19:22 [INFO] [line 90] Start to calculate.
+2024-10-14 11:29:53 [INFO] [line 90] Start to calculate.
+2024-10-14 11:55:02 [INFO] [line 90] Start to calculate.
+2024-10-14 11:55:12 [WARN] [line 295] We reached max step N=1000
+2024-10-14 11:55:12 [INFO] [line 117] Finished to calculate.
+2024-10-14 12:18:55 [INFO] [line 90] Start to calculate.
+2024-10-14 19:02:16 [INFO] [line 89] Start to calculate.
+2024-10-14 19:02:34 [INFO] [line 89] Start to calculate.
+2024-10-14 20:14:28 [INFO] [line 89] Start to calculate.
+2024-10-14 20:17:51 [INFO] [line 89] Start to calculate.
+2024-10-14 20:18:01 [INFO] [line 89] Start to calculate.
+2024-10-14 20:18:41 [WARN] [line 294] We reached max step N=1000
+2024-10-14 20:18:41 [INFO] [line 115] Finished to calculate.
+2024-10-14 20:18:47 [WARN] [line 294] We reached max step N=1000
+2024-10-14 20:18:47 [INFO] [line 115] Finished to calculate.
+2024-10-14 20:20:58 [INFO] [line 89] Start to calculate.
+2024-10-14 20:20:58 [WARN] [line 261] NaN detected. (iteration value 0)
+2024-10-14 20:21:43 [INFO] [line 89] Start to calculate.
+2024-10-14 20:21:44 [WARN] [line 254] NaN detected. (iteration value 13426)
+2024-10-14 20:22:48 [INFO] [line 89] Start to calculate.
+2024-10-14 20:22:48 [WARN] [line 254] NaN detected. (iteration value 0)
+2024-10-14 20:23:24 [INFO] [line 89] Start to calculate.
+2024-10-14 20:24:41 [WARN] [line 254] NaN detected. (iteration value 0)
+2024-10-14 20:24:52 [INFO] [line 89] Start to calculate.
+2024-10-14 20:26:16 [INFO] [line 89] Start to calculate.
+2024-10-14 20:27:33 [INFO] [line 89] Start to calculate.
+2024-10-14 20:28:09 [INFO] [line 89] Start to calculate.
+2024-10-14 20:28:11 [WARN] [line 294] We reached max step N=5000
+2024-10-14 20:28:12 [INFO] [line 115] Finished to calculate.
+2024-10-14 20:28:19 [INFO] [line 89] Start to calculate.
+2024-10-14 20:28:21 [INFO] [line 89] Start to calculate.
+2024-10-14 20:29:13 [INFO] [line 89] Start to calculate.
+2024-10-14 20:30:23 [WARN] [line 294] We reached max step N=5000
+2024-10-14 20:30:23 [INFO] [line 115] Finished to calculate.
+2024-10-14 20:30:30 [WARN] [line 294] We reached max step N=5000
+2024-10-14 20:30:30 [INFO] [line 115] Finished to calculate.
+2024-10-14 20:30:39 [INFO] [line 89] Start to calculate.
+2024-10-14 20:30:41 [WARN] [line 294] We reached max step N=1000
+2024-10-14 20:30:41 [INFO] [line 115] Finished to calculate.
+2024-10-14 20:31:26 [INFO] [line 89] Start to calculate.
+2024-10-14 20:31:28 [WARN] [line 294] We reached max step N=10000
+2024-10-14 20:31:28 [INFO] [line 115] Finished calculating.
+2024-10-15 14:16:50 [INFO] [line 89] Start to calculate.
+2024-10-15 14:16:51 [WARN] [line 296] We reached max step N=10000
+2024-10-15 14:16:51 [INFO] [line 115] Finished calculating.
+2024-10-15 14:17:18 [INFO] [line 90] Start to calculate.
+2024-10-15 14:17:18 [WARN] [line 297] We reached max step N=10000
+2024-10-15 14:17:18 [INFO] [line 116] Finished calculating.
+2024-10-15 16:42:00 [INFO] [line 90] Start to calculate.
+2024-10-15 16:42:01 [WARN] [line 297] We reached max step N=10000
+2024-10-15 16:42:01 [INFO] [line 116] Finished calculating.
+2024-10-15 16:52:33 [INFO] [line 90] Start to calculate. /home/ryota/documents/code/01-neutron_star/APR4/mass_coordinate/neutron_star_APR4.c 
+2024-10-15 16:52:34 [WARN] [line 297] We reached max step N=10000
+2024-10-15 16:52:34 [INFO] [line 116] Finished calculating.
+2024-10-15 17:15:49 [INFO] [line 90] Start to calculate.
+2024-10-15 17:15:49 [WARN] [line 297] We reached max step N=100
+2024-10-15 17:15:49 [INFO] [line 116] Finished calculating.
+2024-10-15 17:17:03 [INFO] [line 90] Start to calculate.
+2024-10-15 17:17:03 [WARN] [line 249] NaN detected. (iteration value 18)
+2024-10-15 17:17:30 [INFO] [line 90] Start to calculate.
+2024-10-15 17:17:30 [WARN] [line 297] We reached max step N=100
+2024-10-15 17:17:30 [INFO] [line 116] Finished calculating.
+2024-10-15 17:17:52 [INFO] [line 90] Start to calculate.
+2024-10-15 17:17:52 [WARN] [line 297] We reached max step N=100
+2024-10-15 17:17:52 [INFO] [line 116] Finished calculating.
+2024-10-15 17:18:23 [INFO] [line 90] Start to calculate.
+2024-10-15 17:18:23 [WARN] [line 297] We reached max step N=100
+2024-10-15 17:18:23 [INFO] [line 116] Finished calculating.
+2024-10-15 17:19:00 [INFO] [line 90] Start to calculate.
+2024-10-15 17:19:00 [WARN] [line 256] NaN detected. (iteration value 0)
